@@ -12,7 +12,7 @@
   
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gustv-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img align="center" alt="Gustv-DotNet" height="30" width="40" src="/dotnet-svgrepo-com.svg" />
   <img align="center" alt="Gustv-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Gustv-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
