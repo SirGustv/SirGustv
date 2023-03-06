@@ -11,9 +11,9 @@
 
 <h3><i>GitHub Status</h3>
 
-  <p align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=SirGustv&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&locale=pt-br&border_radius=16px"></p>
+  <p align="left"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=SirGustv&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&locale=pt-br&border_radius=16px"></p>
     
-  <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirGustv&hide_progress=true&theme=midnight-purple&includt&border_radius=16px&locale=pt-br"></p>
+  <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SirGustv&hide_progress=true&theme=buefy&includt&border_radius=16px&locale=pt-br"></p>
 
 ---
   
